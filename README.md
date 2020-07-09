@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm a PhD student at TU Munich, doing research at the intersection of Reinforcement Learning, Algorithmic Game Theory and Market Design.
-Particularly, I'm interested in the application of Deep Multiagent Reinforcement Learning methods to compute market equilibria, especially in auctions, and the mathematical underpinnings this entails.
+Particularly, I'm interested in the application of Deep Multiagent Reinforcement Learning methods to compute market equilibria, especially in auctions, and the mathematical underpinnings this entails. Previously, I worked as a Data Scientist.
 
-Follow me [@hkrgr](https://twitter.com/hdkrgr).
+You can follow me [@hkrgr](https://twitter.com/hdkrgr).
 
 Currently, most of my recent coding projects live in private repositories, but more and more of them should appear here soon.
 
