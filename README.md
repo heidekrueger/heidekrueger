@@ -16,7 +16,7 @@ I'm passionate about (and have long-term professional experience) the following 
 * The `tidyverse` in `R` for data analysis, vizualisation and statistical programming.
 * `python` for general software development.
 
-In the past, I've also worked on Big Data with `spark` and `scala`, written code in `Java`, `C#` and `C++`, as well as some simulations with `MATLAB`.
+In the past, I've also worked on deep learning with `TensorFlow`, Big Data with `spark` and `scala`, and written general-purpose code in `Java`, `C#` and `C++`, as well as some simulations with `MATLAB`.
 
 
 ### If you're a potential employer who wants to see my code:
