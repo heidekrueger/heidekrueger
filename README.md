@@ -1,4 +1,4 @@
-### Hi, I'm Stefan 👋
+## Hi, I'm Stefan 👋
 
 I'm a CS PhD student at TU Munich, doing research at the intersection of Reinforcement Learning, Algorithmic Game Theory and Market Design.
 In my research, I'm interested in the application of Multiagent Reinforcement Learning methods to compute market equilibria, especially in auctions, and the mathematical underpinnings this entails. Previously, I worked as a Data Scientist in the telecomunications industry after earning my BSc and MSc degrees in applied Mathematics.
@@ -8,7 +8,7 @@ My expected graduation date for my PhD program is Fall/Winter 2022. After that I
 You can follow me on Twitter [@hkrgr](https://twitter.com/hdkrgr), or connect with [me](https://www.linkedin.com/in/heidekrueger/) on LinkedIn.
 
 
-### My Stack
+## My Stack
 
 I'm passionate about (and have long-term professional experience) the following frameworks:
 
