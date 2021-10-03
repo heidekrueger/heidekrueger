@@ -16,7 +16,9 @@ I'm passionate about (and have long-term professional experience) the following 
 * The `tidyverse` in `R` for data analysis, vizualisation and statistical programming, as well as `mlr3` and `tidymodels` for meta-ml in R. 
 * `python` for general software development.
 
-In the past, I've also worked on deep learning with `TensorFlow`, Big Data with `spark` and `scala`, and written general-purpose code in `Java`, `C#` and `C++`, as well as some simulations with `MATLAB`. Some cool technologies that I would love to check out in more detail but haven't yet had a chance to work with extensively: `JAX` for differential programmin; the `julia` project for statistical computing; Smart contract development via Selenium, ChiaLisp or Rust/Solana. 
+In the past, I've also worked on deep learning with `TensorFlow`, Big Data with `spark` and `scala`, and written general-purpose code in `Java`, `C#` and `C++`, as well as some simulations with `MATLAB`. 
+
+I would love to check out the following cool technologies in more detail, but haven't yet had a chance to work with them extensively: `JAX` for differential programmin; the `julia` project for statistical computing; Smart contract development via Selenium, ChiaLisp or Rust/Solana. 
 
 
 ### If you're a potential employer who wants to see my code:
