@@ -5,7 +5,7 @@ In my research, I'm interested in the application of Multiagent Reinforcement Le
 
 My expected graduation date for my PhD program is Fall/Winter 2022. After that I will be looking for Research Scientist / Research Engineer / ML Engineer / Data Scientist positions in industry or Postdoc research opportunities at the intersection of AI, ML, Economics and Incentive Design.
 
-You can follow me on Twitter [@hkrgr](https://twitter.com/hdkrgr), connect with [me on LinkedIn](https://www.linkedin.com/in/heidekrueger/) or check out [my academic profile at TUM](https://www.in.tum.de/en/dss/members/stefan-heidekrueger/).
+You can follow me on [Twitter](https://twitter.com/hdkrgr), connect with [me on LinkedIn](https://www.linkedin.com/in/heidekrueger/) or check out [my academic profile at TUM](https://www.in.tum.de/en/dss/members/stefan-heidekrueger/).
 
 In my free time, I enjoy making musik (I'm a drummer in a band and play some guitar on my own), and exploring the beer gardens, lakes (via SUP) and mountains (via Snowboard) around Munich.
 
