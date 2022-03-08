@@ -3,7 +3,7 @@
 I'm a CS PhD student at TU Munich, doing research at the intersection of Reinforcement Learning, Algorithmic Game Theory and Market Design.
 In my research, I'm interested in the application of Multiagent Reinforcement Learning methods to compute market equilibria, especially in auctions, and the mathematical underpinnings this entails. Previously, I worked as a Data Scientist in the telecomunications industry after earning my BSc and MSc degrees in applied Mathematics.
 
-My expected graduation date for my PhD program is Fall 2022. After that I will be looking for Research Scientist / Research Engineer / ML Engineer / Data Scientist positions in industry or Postdoc research opportunities at the intersection of AI, ML, Economics and Incentive Design.
+My expected graduation date for my PhD program is Fall 2022. After that I will be looking for Research Scientist / Research Engineer / AI Engineer / ML Engineer / Data Scientist positions in industry or Postdoc research opportunities at the intersection of AI, ML, Economics and Incentive Design.
 
 You can follow me on [Twitter](https://twitter.com/hdkrgr), connect with [me on LinkedIn](https://www.linkedin.com/in/heidekrueger/) or check out [my academic profile at TUM](https://www.in.tum.de/en/dss/members/stefan-heidekrueger/).
 
