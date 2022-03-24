@@ -19,7 +19,7 @@ I'm passionate about (and have long-term professional experience) the following 
 
 In the past, I've also worked on deep learning with `TensorFlow` and `keras`, Big Data with `spark` and `scala`, built Dashboards and data-centric WebApps using `Tableau` or `RShiny`, and written general-purpose code in `Java`, `C#` and `C++`, as well as some simulations with `MATLAB`. I know my way around a `Unix` system and `git`, as well as the `GitHub`/ `GitLab` workflows and CI tools (especially `GitLab CI`). I have worked extensively with RDBMSs (`MySQL`, `Postgres`, `MS SQL`, `Oracle`). I also have a fairly good overview of cloud computing resources (especially in the `AWS` and `Azure` ecosystems).
 
-I would love to check out the following cool technologies in more detail, but haven't yet had a chance to work with them extensively: `JAX` for differential programming; the `julia` project for statistical computing; Smart contract development via Selenium, ChiaLisp or Rust/Solana. 
+I would love to check out the following cool technologies in more detail, but haven't yet had a chance to work with them extensively: `JAX` for differential programming; the `julia` project for statistical computing.
 
 
 ### If you're a potential employer who wants to see my code:
