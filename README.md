@@ -26,6 +26,6 @@ Some technlogies I would love to check out in more detail, but haven't yet had a
 
 ### If you're a potential employer who wants to see my code:
 
-A good start would be `bnelearn`, I python library for equilibrium computation in Bayesian games that I originally developed during my PhD, and that I now maintain together with multiple collaborators. The library has enabled research that has appeared in journals such as _Nature Machine Intelligence_, the _INFORMS Journal on Computing_, and AI conferences like AAMAS and AAAI. You can find the latest public release at https://github.com/heidekrueger/bnelearn.
+A good start would be `bnelearn`, a python library for equilibrium computation in Bayesian games that I originally developed during my PhD, and that I now maintain together with multiple collaborators. The library contains highly performant parallel implementations of many markets studied in the Auction Theory literarture, and it has enabled research that has appeared in journals such as _Nature Machine Intelligence_, the _INFORMS Journal on Computing_, and AI conferences like AAMAS and AAAI. You can find the latest public release at https://github.com/heidekrueger/bnelearn.
 
 I also encourage you to also check out [my solutions](https://github.com/heidekrueger/f00b4r-Challenge) to Google's semi-secret foo-bar recruiting challenge, that I finished recently. (Levels 4.1 and 4.2 are a good place to start.)
