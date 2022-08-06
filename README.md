@@ -1,11 +1,13 @@
 ## Hi, I'm Stefan 👋
 
-I'm passionate about using math, algorithms and data to enable smarter decision making. Currently, I'm a Computer Science PhD student at TU Munich, doing research at the intersection of Artificial Intelligence, Algorithmic Game Theory and Microeconomics.
+I'm passionate about using math, algorithms and data to enable smarter decision making, whether in business, policy or our private lives.
+Currently, I'm a Computer Science PhD student at TU Munich, doing research at the intersection of Artificial Intelligence, Algorithmic Game Theory and Microeconomics.
 In my research, I study applications of Multiagent Reinforcement Learning methods to compute nontrivial market equilibria, especially in auctions, and the mathematical underpinnings this entails. Previously, I worked as a Data Scientist in the telecomunications industry after earning my BSc and MSc degrees in applied Mathematics.
 
-My expected graduation date for my PhD program is Summer/Fall 2022. After that I will be looking for Research Scientist / Research Engineer / AI Engineer / ML Engineer / Data Scientist positions in industry or Postdoc research opportunities at the intersection of AI, ML, Economics and Incentive Design.
+My expected graduation date for my PhD program is Fall 2022. After that I will be looking for Research Scientist / Research Engineer / AI Engineer / ML Engineer / Data Scientist positions in industry or Postdoc research opportunities at the intersection of AI, ML, Economics and Incentive Design. I'm particularly interested in algorithmic decision making in systems with game-theoretic aspects, such as markets or other large Multi Agent Systems.
+I'm currently located in Munich, Germany. Primarily, I'm looking for positions that are local or remote/hybrid, but I'm willing to relocate within Europe for the right opportunity.
 
-You can follow me on [Twitter](https://twitter.com/hdkrgr), connect with [me on LinkedIn](https://www.linkedin.com/in/heidekrueger/) or check out [my academic profile at TUM](https://www.in.tum.de/en/dss/members/stefan-heidekrueger/).
+You can follow me on [Twitter](https://twitter.com/hdkrgr), connect with [me on LinkedIn](https://www.linkedin.com/in/heidekrueger/) or check out [my academic profile at TUM](https://www.cs.cit.tum.de/en/dss/members/stefan-heidekrueger/).
 
 In my free time, I enjoy making music (I'm a drummer in a band and play some guitar on my own), and exploring the beer gardens, lakes (via SUP) and mountains (via Snowboard) around Munich.
 
