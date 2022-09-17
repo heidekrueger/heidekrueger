@@ -16,8 +16,8 @@ In my free time, I enjoy making music (I'm a drummer in a band and play some gui
 I'm passionate about (and have several years of professional experience in) the following frameworks:
 
 * `pytorch` for deep learning -- and GPU-accelerated scientific computing in general.
-* The `tidyverse` in `R` for data analysis, vizualisation and statistical programming, as well as `mlr3` and `tidymodels` for meta-ml in R. 
-* `python` for general software development.
+* The `tidyverse` in `R` (e.g. `dplyr`, `ggplot2`, `purrr`, ...) for data analysis, vizualisation and statistical programming, as well as `mlr3` and `tidymodels` for meta-ml in R. 
+* `python` for general software development. (I'm well versed in the Scipy stack for Data Science/ML (`numpy`, `scipy`, `scikit-learn`, `matplotlib`, `plotnine`,...)
 
 In the past, I've also worked on deep learning with `TensorFlow` and `keras`, Big Data with `spark` and `scala`, built Dashboards and data-centric WebApps using `Tableau` or `RShiny`, and written general-purpose code in `Java`, `C#` and `C++`, as well as some simulations with `MATLAB`. I know my way around `Unix` systems and `git`, I strive to follow DevOps best practices, and I'm familiar with `GitHub`/ `GitLab` workflows and CI tools (especially `GitLab CI`). I have also worked extensively with RDBMSs (`MySQL`, `Postgres`, `MS SQL`, `Oracle`), and the cloud (mostly on AWS (EC2, S3, R53, AWS-CLI, SES, SageMaker, Lambda), but also some Azure).
 
