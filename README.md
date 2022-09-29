@@ -4,8 +4,8 @@ I'm passionate about using math, algorithms and data to enable smarter decision 
 Currently, I'm a Computer Science PhD student at TU Munich, doing research at the intersection of Artificial Intelligence, Algorithmic Game Theory and Microeconomics.
 In my research, I study applications of Multiagent Reinforcement Learning methods to compute nontrivial market equilibria, especially in auctions, and the mathematical underpinnings this entails. Previously, I worked as a Data Scientist in the telecomunications industry after earning my BSc and MSc degrees in applied Mathematics.
 
-My expected graduation date for my PhD program is Fall/Winter 2022. After that I will be looking for Research Scientist / Research Engineer / AI Engineer / ML Engineer or (product-focused!) Data Scientist positions in industry.
-I'm currently located in Munich, Germany. Primarily, I'm looking for positions that are local or remote/hybrid, but I'm willing to relocate within Europe for the right opportunity.
+My expected graduation date for my PhD program is Fall/Winter 2022. After that I will be looking for Research Scientist / Research Engineer / AI Engineer / ML Engineer or (product-focused!) Data Scientist positions in industry. Ownership is very important to me, so I am currently not interested in 'Data Science Consultant' roles.
+I'm currently located in Munich, Germany. Primarily, I'm looking for positions that are on-site in Munich or remote/hybrid (European time zones), but I'm willing to relocate within Europe for the right opportunity.
 
 You can follow me on [Twitter](https://twitter.com/hdkrgr), connect with [me on LinkedIn](https://www.linkedin.com/in/heidekrueger/) or check out [my academic profile at TUM](https://www.cs.cit.tum.de/en/dss/members/stefan-heidekrueger/).
 
